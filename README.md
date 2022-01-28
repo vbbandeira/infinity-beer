@@ -6,5 +6,7 @@ O intuito desse projeto final é gerenciar um projeto de desenvolvimento de um p
 * A Criação da Cervejeira Automatizada consistiu em 3 grupos centrais:
 
 1 - Definição do projeto;
+
 2 - Implementação;
+
 3 - Implantação.
